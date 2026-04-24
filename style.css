@@ -1,8 +1,12 @@
 .img {
     width: 640px;
     height: 480px;
+    display: block;
+    margin: auto;
 }
 .img-index {
     width: 640px;
     height: 340px;
+    display: block;
+    margin: auto;
 }
