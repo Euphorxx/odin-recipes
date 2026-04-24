@@ -3,20 +3,26 @@
     background-color: #ffebed;
     font-family: Tahoma, Verdana;
 }
+
+
 .img, .img-index {
     width: 640px;
     height: 480px;
     display: block;
-    margin: 50px auto 50px;
+    margin: 50px auto 10px;
     padding: 10px;
     background-color: #f6b6b7;
     border: 2px;
     border-style: dashed;
     border-color:#27153d;
 }
+
+
 .img-index {
     height: 340px;
+    margin-top: 10px
 }
+
 
 .head1,h1 {
     display: block;
@@ -25,4 +31,17 @@
     text-align: center;
     background-color: #27153d;
     color: #db7f8e;
+}
+
+
+h2,h3 {
+    color:#27153d
+}
+
+h3 {
+    text-align: center;
+}
+
+.strong {
+    color:#27153d
 }
