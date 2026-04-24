@@ -1,12 +1,10 @@
 # Odin Recipes
 
 ## About
----
 A website I made to practice basic HTML and CSS. 
 
 
 ## Credits
----
 [Photo by Any Lane](https://www.pexels.com/photo/crop-woman-with-fresh-persimmons-5946092/) from Pexels
 [Photo by Prabal Pratap Singh](https://www.pexels.com/photo/a-rice-meal-in-a-ceramic-bowl-9609856/) from Pexels
 [Photo by Christina & Peter](https://www.pexels.com/photo/close-up-shot-of-toasted-bread-slice-30904194/) from Pexels
