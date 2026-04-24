@@ -1,12 +1,27 @@
+* {
+    box-sizing: border-box;
+    background-color: #ffebed;
+}
 .img {
     width: 640px;
     height: 480px;
     display: block;
-    margin: auto;
+    margin-inline: auto;
+    margin-block: 50px;
+    padding: 10px;
+    background-color: #f6b6b7;
+    border: 2px;
+    border-style: dashed;
+    border-color:#27153d;
 }
 .img-index {
     width: 640px;
     height: 340px;
     display: block;
     margin: auto;
+    padding: 10px;
+    background-color: #f6b6b7;
+    border: 2px;
+    border-style: dashed;
+    border-color:#27153d;
 }
