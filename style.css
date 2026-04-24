@@ -1,13 +1,13 @@
 * {
     box-sizing: border-box;
     background-color: #ffebed;
+    font-family: Tahoma, Verdana;
 }
-.img {
+.img, .img-index {
     width: 640px;
     height: 480px;
     display: block;
-    margin-inline: auto;
-    margin-block: 50px;
+    margin: 50px auto 50px;
     padding: 10px;
     background-color: #f6b6b7;
     border: 2px;
@@ -15,13 +15,14 @@
     border-color:#27153d;
 }
 .img-index {
-    width: 640px;
     height: 340px;
+}
+
+.head1,h1 {
     display: block;
-    margin: auto;
-    padding: 10px;
-    background-color: #f6b6b7;
-    border: 2px;
-    border-style: dashed;
-    border-color:#27153d;
+    margin: 20px 0;
+    padding-block: 5px;
+    text-align: center;
+    background-color: #27153d;
+    color: #db7f8e;
 }
