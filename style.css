@@ -44,5 +44,15 @@ h3 {
 }
 
 strong {
-    color:#27153d
+    color:#27153d;
 }
+
+a {
+    color:#db7f8e;
+    font-size:large;
+}
+
+a:hover, a:focus-visible {
+    color:#f6b6b7;
+}
+
