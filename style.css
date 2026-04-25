@@ -36,14 +36,15 @@
 
 
 h2,h3 {
-    color:#27153d
+    color:#27153d;
 }
 
-h3 {
+.tag {
     text-align: center;
 }
 
 strong {
+    display: block;
     color:#27153d;
 }
 
@@ -59,7 +60,6 @@ a:hover, a:focus-visible {
 button {
     background-color:#db7f8e;
     border-radius: 8px;
-    display:inline-block;
     border: solid 2px #27153d;
     padding: 6px 10px;
     font-size:small;
@@ -67,9 +67,31 @@ button {
     color:#27153d;
 }
 
+ul, ol, h3, h2, p {
+    text-align:justify;
+    width:700px;
+    margin: 0 auto;
+}
+
+h3, h2, strong {
+    display: block;
+    padding-block: 10px;
+    margin: 0 auto;
+}
+
+p a {
+    display: block;
+    text-align: center;
+    margin: 20px;
+
+}
 button:hover {
     background-color:#f6b6b7;
     color:#27153d;
     cursor:pointer;
 }
 
+.recipes {
+    width: max-content;
+    text-align: justify;
+}
