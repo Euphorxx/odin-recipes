@@ -75,7 +75,7 @@ ul, ol, h3, h2, p {
 
 h3, h2, strong {
     display: block;
-    padding-block: 10gupx;
+    padding-block: 10px;
     margin: 0 auto;
 }
 
