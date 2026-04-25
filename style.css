@@ -2,6 +2,7 @@
     box-sizing: border-box;
     background-color: #ffebed;
     font-family: Tahoma, Verdana;
+    max-inline-size: 100%;
 }
 
 
